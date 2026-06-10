@@ -29,4 +29,4 @@ This project is built upon the amazing work of the Real-ESRGAN team. All credit 
 The underlying Real-ESRGAN code is licensed under the BSD 3-Clause License. Please refer to the [original repository](https://github.com/xinntao/Real-ESRGAN) for full license details.
 
 ## CATATAN
-If someone suddenly says ## THIS IS ILLEGALLY TRAIN AI, DON'T USE IT. Your bullshit, this is Upscaler not "AI Buatkan aku foto Furry bergaya dihotel Anthrocon" NOPE. AND ONE MORE MOST CRUCIAL ## AS LONG AS YOU USE FURRY PEOPLE'S PHOTOS OR PEOPLE'S ART, THE RESPONSIBILITY IS IN YOUR OWN HANDS, NOT ME
+If someone suddenly says `THIS IS ILLEGALLY TRAIN AI, DON'T USE IT.` You're bullshit, this is Upscaler not *"AI Buatkan aku foto Furry bergaya dihotel Anthrocon"* NOPE. AND ONE MORE MOST CRUCIAL **AS LONG AS YOU USE FURRY PEOPLE'S PHOTOS OR PEOPLE'S ART, THE RESPONSIBILITY IS IN YOUR OWN HANDS, NOT ME**
