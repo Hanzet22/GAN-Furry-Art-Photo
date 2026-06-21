@@ -89,7 +89,7 @@ If someone suddenly says `THIS IS ILLEGALLY TRAIN AI, DON'T USE IT.` You're bull
   
   
 - **Q: Kalau gua ketahuan pake tools ini sama artist original-nya, gua bakal dituntut gak? ⚖️**  
-- **A:** Baca lagi bagian **CATATAN** di atas pake kacamata pembesar. Segala urusan hak cipta dan izin itu tanggung jawab LU SENDIRI. Gua cuma sediain tools, bukan penampung dosa lu.  
+- **A:** Baca lagi bagian **CATATAN** di atas pake kacamata pembesar. Segala urusan hak cipta dan izin itu tanggung jawab LU SENDIRI. Gua cuma sediain tools, bukan penampung dosa lu. Dan satu lagi **DERITA LOE AWOKAWOKAWOK**
   
   
 - **Q: Bang, script-nya bisa dipake offline gak kalau gua lagi gak ada kuota? ✈️**  
