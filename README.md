@@ -29,16 +29,18 @@ A ready-to-use Google Colab notebook for upscaling Anime and Furry artwork using
 4. Wait for the process to finish and download the `results.zip`.
 
 ## 📜 Credits & Acknowledgements
-This project is built upon the amazing work of the Real-ESRGAN team. All credit for the core technology and models goes to:
+This project is built upon the amazing work of the Real-ESRGAN team and brilliant community model creators. All credit for the core technology and models goes to:
 
 - **Real-ESRGAN Repository:** [xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - **Lead Author:** [Xintao Wang](https://github.com/xinntao)
 - **Contributors:** ARC Lab, Tencent PCG; Shanghai AI Laboratory; and other contributors listed in the original repository.
+- **HuggingFace Community Models:** Special thanks to Kim2091 (UltraSharp), NMKD (Superscale), and the open-source AI community for developing custom ESRGAN weights hosted on HuggingFace.
 
-> **Note:** This notebook is a convenience wrapper designed to simplify the usage of Real-ESRGAN for specific anime-style upscaling tasks on Google Colab.
+> **Note:** This notebook is a convenience wrapper designed to simplify the usage of Real-ESRGAN and custom HuggingFace community models for specific upscaling tasks on Google Colab.
 
 ## 📄 License
-The underlying Real-ESRGAN code is licensed under the BSD 3-Clause License. Please refer to the [original repository](https://github.com/xinntao/Real-ESRGAN) for full license details.
+The underlying Real-ESRGAN code is licensed under the BSD 3-Clause License. Please refer to the [original repository](https://github.com/xinntao/Real-ESRGAN) for full license details. Custom community models follow their respective non-commercial or open-source licenses as provided by their authors on HuggingFace.
+
 
 ## CATATAN
 If someone suddenly says `THIS IS ILLEGALLY TRAIN AI, DON'T USE IT.` You're bullshit, this is Upscaler not *"AI Buatkan aku foto Furry bergaya dihotel Anthrocon"* NOPE. AND ONE MORE MOST CRUCIAL **AS LONG AS YOU USE FURRY PEOPLE'S PHOTOS OR PEOPLE'S ART, THE RESPONSIBILITY IS IN YOUR OWN HANDS, NOT ME**
