@@ -2,6 +2,8 @@
 
 # 4x Anime/Furry Image Upscaler (Real-ESRGAN)
 
+**Mending sebelum kalian pake, UTAMAKAN LITERASI ANJ*
+
 A ready-to-use Google Colab notebook for upscaling Anime and Furry artwork using Real-ESRGAN. This script is pre-configured with the `RealESRGAN_x4plus_anime_6B` and `RealESRGAN_x4plus` model to ensure high-quality 4x upscaling without common architecture mismatch errors.
 
 ## 🚀 Features
