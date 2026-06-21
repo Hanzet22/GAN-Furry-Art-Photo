@@ -4,21 +4,15 @@
 
 *Mending sebelum kalian pake, UTAMAKAN LITERASI ANJ*
 
-Daftar Isi/List of contents
+### Daftar Isi / List of Contents
 
-[Fitur/Featuree](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#-features)
-
-[Cara pake/How To Use](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#%EF%B8%8F-how-to-use)
-
-[Kredit/Credits](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#-credits--acknowledgements)
-
-[Lisensi/License](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#-license)
-
-[Baca ini biar gak Mines Literasi/Read this so you don't have a lack of literacy](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#catatan)
-
-[Indonesia Series](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#qa-mode-goo)
-
-[Engglish Series](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#qa-mode-goo-euro-j-edition-malas-lempar--gw-capek)
+1. [Fitur / Features](#-features)
+2. [Cara Pake / How To Use](#%EF%B8%8F-how-to-use)
+3. [Kredit / Credits](#-credits--acknowledgements)
+4. [Lisensi / License](#-license)
+5. [Baca ini biar gak Mines Literasi / Read this so you don't have a lack of literacy](#catatan)
+6. [Indonesia Series](#qa-mode-goo)
+7. [English Series](#qa-mode-goo-euro-j-edition-malas-lempar--gw-capek)
 
 A ready-to-use Google Colab notebook for upscaling Anime and Furry artwork using Real-ESRGAN. This script is pre-configured with the `RealESRGAN_x4plus_anime_6B` and `RealESRGAN_x4plus` model to ensure high-quality 4x upscaling without common architecture mismatch errors.
 
