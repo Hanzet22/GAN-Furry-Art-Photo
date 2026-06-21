@@ -2,8 +2,17 @@
 
 # 4x Anime/Furry Image Upscaler (Real-ESRGAN)
 
-**Mending sebelum kalian pake, UTAMAKAN LITERASI ANJ*
+*Mending sebelum kalian pake, UTAMAKAN LITERASI ANJ*
 
+Daftar Isi/List of contents
+
+[Fitur/Featuree](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#-features)
+[Cara pake/How To Use](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#%EF%B8%8F-how-to-use)
+[Kredit/Credits](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#-credits--acknowledgements)
+[Lisensi/License](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#-license)
+[Baca ini biar gak Mines Literasi/Read this so you don't have a lack of literacy](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#catatan)
+[Indonesia Series](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#qa-mode-goo)
+[Engglish Series](https://github.com/Hanzet22/GAN-Furry-Art-Photo/blob/main/README.md#qa-mode-goo-euro-j-edition-malas-lempar--gw-capek)
 A ready-to-use Google Colab notebook for upscaling Anime and Furry artwork using Real-ESRGAN. This script is pre-configured with the `RealESRGAN_x4plus_anime_6B` and `RealESRGAN_x4plus` model to ensure high-quality 4x upscaling without common architecture mismatch errors.
 
 ## 🚀 Features
